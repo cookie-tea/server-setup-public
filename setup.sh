@@ -10,4 +10,3 @@ echo ""
 read -p "Press enter to continue..."
 git clone git@github.com:cookie-tea/server-setup.git
 ./server-setup/setup.sh
-rm -r server-setup
